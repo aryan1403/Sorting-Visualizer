@@ -1,7 +1,7 @@
 # Sorting Visualizer
-    A GUI based Sorting Visualizer program. This helps in Visualizing the sorts Algorithms (eg. Bubble Sort) using Java swing.
+  A GUI based Sorting Visualizer program. This helps in Visualizing the sorts Algorithms __(eg. Bubble Sort)__ using Java swing.
 
-    I will be adding more Sort Algorithms Later in the Future.
+  I will be adding more Sort Algorithms Later in the Future.
 
 ## Language
   Sorting Visualizer is written in Pure Java Swing ;)
