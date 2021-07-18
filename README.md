@@ -3,6 +3,11 @@
 
   I will be adding more Sort Algorithms Later in the Future.
 
+## Screenshots
+  ![Alt text](/screenshots/visualizer.jpg?raw=true)
+  ![Alt text](/screenshots/sort.jpg?raw=true)
+  ![Alt text](/screenshots/colors.jpg?raw=true)
+
 ## Language
   Sorting Visualizer is written in Pure Java Swing ;)
   
