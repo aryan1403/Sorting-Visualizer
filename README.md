@@ -2,6 +2,7 @@
   A GUI based Sorting Visualizer program. This helps in Visualizing the sorts Algorithms __(eg. Bubble Sort)__ using Java swing.
 
   I will be adding more Sort Algorithms Later in the Future.
+  
 
 ## Screenshots
   ![Alt text](/Screenshots/visualizer.jpg?raw=true)
